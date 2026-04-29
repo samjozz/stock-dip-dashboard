@@ -1,7 +1,7 @@
 {
-  "generated_at_utc": "2026-04-29 10:02:32 UTC",
-  "generated_at_utc_iso": "2026-04-29T10:02:32.526558+00:00",
-  "generated_at_sydney": "Wed 29 Apr 2026, 8:02 PM Sydney",
+  "generated_at_utc": "2026-04-29 23:26:46 UTC",
+  "generated_at_utc_iso": "2026-04-29T23:26:46.255630+00:00",
+  "generated_at_sydney": "Thu 30 Apr 2026, 9:26 AM Sydney",
   "row_count": 603,
   "error_count": 0,
   "market_counts": {
@@ -10,36 +10,38 @@
   },
   "metric_counts": {
     "open_vs_prev_close_pct": {
-      "10\u201320% down": 1,
-      "5\u201310% down": 8,
-      "2\u20135% down": 49
+      "10\u201320% down": 2,
+      "5\u201310% down": 3,
+      "2\u20135% down": 21
     },
     "prev_close_vs_prev_open_pct": {
-      "5\u201310% down": 1,
-      "2\u20135% down": 55
+      "10\u201320% down": 1,
+      "5\u201310% down": 6,
+      "2\u20135% down": 64
     },
     "today_open_vs_prev_open_pct": {
-      "10\u201320% down": 1,
-      "5\u201310% down": 18,
-      "2\u20135% down": 63
+      "10\u201320% down": 4,
+      "5\u201310% down": 13,
+      "2\u20135% down": 105
     },
     "week_change_pct": {
+      "30%+ down": 1,
       "20\u201330% down": 1,
-      "10\u201320% down": 17,
-      "5\u201310% down": 75,
-      "2\u20135% down": 156
+      "10\u201320% down": 26,
+      "5\u201310% down": 83,
+      "2\u20135% down": 143
     },
     "month_change_pct": {
       "30%+ down": 1,
-      "20\u201330% down": 3,
-      "10\u201320% down": 28,
-      "5\u201310% down": 41,
-      "2\u20135% down": 50
+      "20\u201330% down": 4,
+      "10\u201320% down": 20,
+      "5\u201310% down": 63,
+      "2\u20135% down": 60
     },
     "drawdown_52w_pct": {
-      "40%+ down": 48,
-      "25\u201340% down": 104,
-      "10\u201325% down": 242
+      "40%+ down": 52,
+      "25\u201340% down": 106,
+      "10\u201325% down": 237
     }
   },
   "refresh_schedule": [
@@ -73,12 +75,6 @@
     }
   ],
   "upcoming_refreshes": [
-    {
-      "name": "US open refresh",
-      "timezone": "America/New_York",
-      "utc_iso": "2026-04-29T13:32:00+00:00",
-      "sydney_label": "Wed 29 Apr 2026, 11:32 PM Sydney"
-    },
     {
       "name": "ASX open refresh",
       "timezone": "Australia/Sydney",
@@ -192,10 +188,16 @@
       "timezone": "Australia/Sydney",
       "utc_iso": "2026-05-13T00:02:00+00:00",
       "sydney_label": "Wed 13 May 2026, 10:02 AM Sydney"
+    },
+    {
+      "name": "US open refresh",
+      "timezone": "America/New_York",
+      "utc_iso": "2026-05-13T13:32:00+00:00",
+      "sydney_label": "Wed 13 May 2026, 11:32 PM Sydney"
     }
   ],
-  "next_refresh_name": "US open refresh",
-  "next_refresh_sydney": "Wed 29 Apr 2026, 11:32 PM Sydney",
+  "next_refresh_name": "ASX open refresh",
+  "next_refresh_sydney": "Thu 30 Apr 2026, 10:02 AM Sydney",
   "sources": {
     "sp500": "https://en.wikipedia.org/wiki/List_of_S%26P_500_companies",
     "asx100": "https://en.wikipedia.org/wiki/S%26P/ASX_200 (top 100 by market cap)",
