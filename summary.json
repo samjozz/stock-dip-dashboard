@@ -1,5 +1,7 @@
 {
-  "generated_at_utc": "2026-04-29 01:15:08 UTC",
+  "generated_at_utc": "2026-04-29 08:22:47 UTC",
+  "generated_at_utc_iso": "2026-04-29T08:22:47.155541+00:00",
+  "generated_at_sydney": "Wed 29 Apr 2026, 6:22 PM Sydney",
   "row_count": 603,
   "error_count": 0,
   "market_counts": {
@@ -24,22 +26,176 @@
     "week_change_pct": {
       "20\u201330% down": 1,
       "10\u201320% down": 17,
-      "5\u201310% down": 78,
-      "2\u20135% down": 150
+      "5\u201310% down": 75,
+      "2\u20135% down": 156
     },
     "month_change_pct": {
       "30%+ down": 1,
       "20\u201330% down": 3,
       "10\u201320% down": 28,
-      "5\u201310% down": 44,
-      "2\u20135% down": 47
+      "5\u201310% down": 41,
+      "2\u20135% down": 50
     },
     "drawdown_52w_pct": {
       "40%+ down": 48,
-      "25\u201340% down": 105,
-      "10\u201325% down": 240
+      "25\u201340% down": 104,
+      "10\u201325% down": 242
     }
   },
+  "refresh_schedule": [
+    {
+      "name": "ASX open refresh",
+      "timezone": "Australia/Sydney",
+      "hour": 10,
+      "minute": 2,
+      "weekdays": [
+        0,
+        1,
+        2,
+        3,
+        4
+      ],
+      "description": "Mon\u2013Fri 10:02 AM Sydney"
+    },
+    {
+      "name": "US open refresh",
+      "timezone": "America/New_York",
+      "hour": 9,
+      "minute": 32,
+      "weekdays": [
+        0,
+        1,
+        2,
+        3,
+        4
+      ],
+      "description": "Mon\u2013Fri 9:32 AM New York (auto-converted to Sydney time)"
+    }
+  ],
+  "upcoming_refreshes": [
+    {
+      "name": "US open refresh",
+      "timezone": "America/New_York",
+      "utc_iso": "2026-04-29T13:32:00+00:00",
+      "sydney_label": "Wed 29 Apr 2026, 11:32 PM Sydney"
+    },
+    {
+      "name": "ASX open refresh",
+      "timezone": "Australia/Sydney",
+      "utc_iso": "2026-04-30T00:02:00+00:00",
+      "sydney_label": "Thu 30 Apr 2026, 10:02 AM Sydney"
+    },
+    {
+      "name": "US open refresh",
+      "timezone": "America/New_York",
+      "utc_iso": "2026-04-30T13:32:00+00:00",
+      "sydney_label": "Thu 30 Apr 2026, 11:32 PM Sydney"
+    },
+    {
+      "name": "ASX open refresh",
+      "timezone": "Australia/Sydney",
+      "utc_iso": "2026-05-01T00:02:00+00:00",
+      "sydney_label": "Fri 01 May 2026, 10:02 AM Sydney"
+    },
+    {
+      "name": "US open refresh",
+      "timezone": "America/New_York",
+      "utc_iso": "2026-05-01T13:32:00+00:00",
+      "sydney_label": "Fri 01 May 2026, 11:32 PM Sydney"
+    },
+    {
+      "name": "ASX open refresh",
+      "timezone": "Australia/Sydney",
+      "utc_iso": "2026-05-04T00:02:00+00:00",
+      "sydney_label": "Mon 04 May 2026, 10:02 AM Sydney"
+    },
+    {
+      "name": "US open refresh",
+      "timezone": "America/New_York",
+      "utc_iso": "2026-05-04T13:32:00+00:00",
+      "sydney_label": "Mon 04 May 2026, 11:32 PM Sydney"
+    },
+    {
+      "name": "ASX open refresh",
+      "timezone": "Australia/Sydney",
+      "utc_iso": "2026-05-05T00:02:00+00:00",
+      "sydney_label": "Tue 05 May 2026, 10:02 AM Sydney"
+    },
+    {
+      "name": "US open refresh",
+      "timezone": "America/New_York",
+      "utc_iso": "2026-05-05T13:32:00+00:00",
+      "sydney_label": "Tue 05 May 2026, 11:32 PM Sydney"
+    },
+    {
+      "name": "ASX open refresh",
+      "timezone": "Australia/Sydney",
+      "utc_iso": "2026-05-06T00:02:00+00:00",
+      "sydney_label": "Wed 06 May 2026, 10:02 AM Sydney"
+    },
+    {
+      "name": "US open refresh",
+      "timezone": "America/New_York",
+      "utc_iso": "2026-05-06T13:32:00+00:00",
+      "sydney_label": "Wed 06 May 2026, 11:32 PM Sydney"
+    },
+    {
+      "name": "ASX open refresh",
+      "timezone": "Australia/Sydney",
+      "utc_iso": "2026-05-07T00:02:00+00:00",
+      "sydney_label": "Thu 07 May 2026, 10:02 AM Sydney"
+    },
+    {
+      "name": "US open refresh",
+      "timezone": "America/New_York",
+      "utc_iso": "2026-05-07T13:32:00+00:00",
+      "sydney_label": "Thu 07 May 2026, 11:32 PM Sydney"
+    },
+    {
+      "name": "ASX open refresh",
+      "timezone": "Australia/Sydney",
+      "utc_iso": "2026-05-08T00:02:00+00:00",
+      "sydney_label": "Fri 08 May 2026, 10:02 AM Sydney"
+    },
+    {
+      "name": "US open refresh",
+      "timezone": "America/New_York",
+      "utc_iso": "2026-05-08T13:32:00+00:00",
+      "sydney_label": "Fri 08 May 2026, 11:32 PM Sydney"
+    },
+    {
+      "name": "ASX open refresh",
+      "timezone": "Australia/Sydney",
+      "utc_iso": "2026-05-11T00:02:00+00:00",
+      "sydney_label": "Mon 11 May 2026, 10:02 AM Sydney"
+    },
+    {
+      "name": "US open refresh",
+      "timezone": "America/New_York",
+      "utc_iso": "2026-05-11T13:32:00+00:00",
+      "sydney_label": "Mon 11 May 2026, 11:32 PM Sydney"
+    },
+    {
+      "name": "ASX open refresh",
+      "timezone": "Australia/Sydney",
+      "utc_iso": "2026-05-12T00:02:00+00:00",
+      "sydney_label": "Tue 12 May 2026, 10:02 AM Sydney"
+    },
+    {
+      "name": "US open refresh",
+      "timezone": "America/New_York",
+      "utc_iso": "2026-05-12T13:32:00+00:00",
+      "sydney_label": "Tue 12 May 2026, 11:32 PM Sydney"
+    },
+    {
+      "name": "ASX open refresh",
+      "timezone": "Australia/Sydney",
+      "utc_iso": "2026-05-13T00:02:00+00:00",
+      "sydney_label": "Wed 13 May 2026, 10:02 AM Sydney"
+    }
+  ],
+  "next_refresh_name": "US open refresh",
+  "next_refresh_sydney": "Wed 29 Apr 2026, 11:32 PM Sydney",
   "sources": {
     "sp500": "https://en.wikipedia.org/wiki/List_of_S%26P_500_companies",
     "asx100": "https://en.wikipedia.org/wiki/S%26P/ASX_200 (top 100 by market cap)",
