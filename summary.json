@@ -1,0 +1,48 @@
+{
+  "generated_at_utc": "2026-04-29 01:15:08 UTC",
+  "row_count": 603,
+  "error_count": 0,
+  "market_counts": {
+    "ASX 100": 100,
+    "S&P 500": 503
+  },
+  "metric_counts": {
+    "open_vs_prev_close_pct": {
+      "10\u201320% down": 1,
+      "5\u201310% down": 8,
+      "2\u20135% down": 49
+    },
+    "prev_close_vs_prev_open_pct": {
+      "5\u201310% down": 1,
+      "2\u20135% down": 55
+    },
+    "today_open_vs_prev_open_pct": {
+      "10\u201320% down": 1,
+      "5\u201310% down": 18,
+      "2\u20135% down": 63
+    },
+    "week_change_pct": {
+      "20\u201330% down": 1,
+      "10\u201320% down": 17,
+      "5\u201310% down": 78,
+      "2\u20135% down": 150
+    },
+    "month_change_pct": {
+      "30%+ down": 1,
+      "20\u201330% down": 3,
+      "10\u201320% down": 28,
+      "5\u201310% down": 44,
+      "2\u20135% down": 47
+    },
+    "drawdown_52w_pct": {
+      "40%+ down": 48,
+      "25\u201340% down": 105,
+      "10\u201325% down": 240
+    }
+  },
+  "sources": {
+    "sp500": "https://en.wikipedia.org/wiki/List_of_S%26P_500_companies",
+    "asx100": "https://en.wikipedia.org/wiki/S%26P/ASX_200 (top 100 by market cap)",
+    "prices": "Yahoo Finance chart endpoint"
+  }
+}
