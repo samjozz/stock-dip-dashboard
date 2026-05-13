@@ -1964,7 +1964,7 @@
     "index": "S&P 500",
     "display_symbol": "CCL",
     "symbol": "CCL",
-    "company": "Carnival",
+    "company": "Carnival Corporation",
     "sector": "Consumer Discretionary",
     "currency": "USD",
     "source": "https://en.wikipedia.org/wiki/List_of_S%26P_500_companies"
@@ -2436,16 +2436,6 @@
     "symbol": "COST",
     "company": "Costco",
     "sector": "Consumer Staples",
-    "currency": "USD",
-    "source": "https://en.wikipedia.org/wiki/List_of_S%26P_500_companies"
-  },
-  {
-    "market": "S&P 500",
-    "index": "S&P 500",
-    "display_symbol": "CTRA",
-    "symbol": "CTRA",
-    "company": "Coterra",
-    "sector": "Energy",
     "currency": "USD",
     "source": "https://en.wikipedia.org/wiki/List_of_S%26P_500_companies"
   },
@@ -5756,6 +5746,16 @@
     "symbol": "VLO",
     "company": "Valero Energy",
     "sector": "Energy",
+    "currency": "USD",
+    "source": "https://en.wikipedia.org/wiki/List_of_S%26P_500_companies"
+  },
+  {
+    "market": "S&P 500",
+    "index": "S&P 500",
+    "display_symbol": "VEEV",
+    "symbol": "VEEV",
+    "company": "Veeva Systems",
+    "sector": "Health Care",
     "currency": "USD",
     "source": "https://en.wikipedia.org/wiki/List_of_S%26P_500_companies"
   },
